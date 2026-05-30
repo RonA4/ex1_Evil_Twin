@@ -13,7 +13,7 @@
 
 - **Ron Amsalem** 
 - **Fadi**
-We worked together.
+- We worked together.
 
 ---
 
@@ -364,7 +364,5 @@ Possible reasons:
 - The client reconnects very quickly.
 - More rounds may be required in the lab test.
 
-
----
 
 ````
