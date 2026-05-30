@@ -1,4 +1,3 @@
-כן — תעתיקי את כל מה שבתיבה הזאת לקובץ בשם `README.md`:
 # Evil Twin Attack and Defense Tool
 
 ## Course Information
