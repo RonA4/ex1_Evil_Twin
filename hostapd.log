@@ -1,0 +1,27 @@
+wlxe84e06aed7ca: interface state UNINITIALIZED->ENABLED
+wlxe84e06aed7ca: AP-ENABLED 
+wlxe84e06aed7ca: STA 62:dc:06:5e:1e:d7 IEEE 802.11: authenticated
+wlxe84e06aed7ca: STA 62:dc:06:5e:1e:d7 IEEE 802.11: associated (aid 1)
+wlxe84e06aed7ca: AP-STA-POSSIBLE-PSK-MISMATCH 62:dc:06:5e:1e:d7
+wlxe84e06aed7ca: AP-STA-POSSIBLE-PSK-MISMATCH 62:dc:06:5e:1e:d7
+wlxe84e06aed7ca: AP-STA-POSSIBLE-PSK-MISMATCH 62:dc:06:5e:1e:d7
+wlxe84e06aed7ca: AP-STA-POSSIBLE-PSK-MISMATCH 62:dc:06:5e:1e:d7
+wlxe84e06aed7ca: STA 62:dc:06:5e:1e:d7 IEEE 802.11: authenticated
+wlxe84e06aed7ca: STA 62:dc:06:5e:1e:d7 IEEE 802.11: associated (aid 1)
+wlxe84e06aed7ca: AP-STA-CONNECTED 62:dc:06:5e:1e:d7
+wlxe84e06aed7ca: STA 62:dc:06:5e:1e:d7 RADIUS: starting accounting session 0950935437972FE4
+wlxe84e06aed7ca: STA 62:dc:06:5e:1e:d7 WPA: pairwise key handshake completed (RSN)
+wlxe84e06aed7ca: EAPOL-4WAY-HS-COMPLETED 62:dc:06:5e:1e:d7
+wlxe84e06aed7ca: AP-STA-DISCONNECTED 62:dc:06:5e:1e:d7
+wlxe84e06aed7ca: STA 62:dc:06:5e:1e:d7 IEEE 802.11: disassociated
+wlxe84e06aed7ca: STA 62:dc:06:5e:1e:d7 IEEE 802.11: deauthenticated due to inactivity (timer DEAUTH/REMOVE)
+wlxe84e06aed7ca: STA 62:dc:06:5e:1e:d7 IEEE 802.11: authenticated
+wlxe84e06aed7ca: STA 62:dc:06:5e:1e:d7 IEEE 802.11: associated (aid 1)
+wlxe84e06aed7ca: AP-STA-CONNECTED 62:dc:06:5e:1e:d7
+wlxe84e06aed7ca: STA 62:dc:06:5e:1e:d7 RADIUS: starting accounting session CA00CBC01397405A
+wlxe84e06aed7ca: STA 62:dc:06:5e:1e:d7 WPA: pairwise key handshake completed (RSN)
+wlxe84e06aed7ca: EAPOL-4WAY-HS-COMPLETED 62:dc:06:5e:1e:d7
+wlxe84e06aed7ca: AP-STA-DISCONNECTED 62:dc:06:5e:1e:d7
+wlxe84e06aed7ca: STA 62:dc:06:5e:1e:d7 IEEE 802.11: disassociated
+wlxe84e06aed7ca: STA 62:dc:06:5e:1e:d7 IEEE 802.11: deauthenticated due to inactivity (timer DEAUTH/REMOVE)
+wlxe84e06aed7ca: INTERFACE-DISABLED 

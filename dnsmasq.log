@@ -1,0 +1,210 @@
+dnsmasq: started, version 2.90 cachesize 150
+dnsmasq: compile time options: IPv6 GNU-getopt DBus no-UBus i18n IDN2 DHCP DHCPv6 no-Lua TFTP conntrack ipset nftset auth cryptohash DNSSEC loop-detect inotify dumpfile
+dnsmasq-dhcp: DHCP, IP range 192.168.50.10 -- 192.168.50.50, lease time 12h
+dnsmasq-dhcp: DHCP, sockets bound exclusively to interface wlxe84e06aed7ca
+dnsmasq: reading /etc/resolv.conf
+dnsmasq: using nameserver 127.0.0.53#53
+dnsmasq: read /etc/hosts - 8 names
+dnsmasq-dhcp: 1608555111 available DHCP range: 192.168.50.10 -- 192.168.50.50
+dnsmasq-dhcp: 1608555111 client provides name: iPhone
+dnsmasq-dhcp: 1608555111 DHCPREQUEST(wlxe84e06aed7ca) 172.20.10.9 62:dc:06:5e:1e:d7 
+dnsmasq-dhcp: 1608555111 DHCPNAK(wlxe84e06aed7ca) 172.20.10.9 62:dc:06:5e:1e:d7 wrong address
+dnsmasq-dhcp: 1608555111 broadcast response
+dnsmasq-dhcp: 1608555111 sent size:  1 option: 53 message-type  6
+dnsmasq-dhcp: 1608555111 sent size:  4 option: 54 server-identifier  192.168.50.1
+dnsmasq-dhcp: 1608555111 sent size: 13 option: 56 message  77:72:6f:6e:67:20:61:64:64:72:65:73:73
+dnsmasq-dhcp: 1608555111 available DHCP range: 192.168.50.10 -- 192.168.50.50
+dnsmasq-dhcp: 1608555111 client provides name: iPhone
+dnsmasq-dhcp: 1608555111 DHCPREQUEST(wlxe84e06aed7ca) 172.20.10.9 62:dc:06:5e:1e:d7 
+dnsmasq-dhcp: 1608555111 DHCPNAK(wlxe84e06aed7ca) 172.20.10.9 62:dc:06:5e:1e:d7 wrong address
+dnsmasq-dhcp: 1608555111 broadcast response
+dnsmasq-dhcp: 1608555111 sent size:  1 option: 53 message-type  6
+dnsmasq-dhcp: 1608555111 sent size:  4 option: 54 server-identifier  192.168.50.1
+dnsmasq-dhcp: 1608555111 sent size: 13 option: 56 message  77:72:6f:6e:67:20:61:64:64:72:65:73:73
+dnsmasq-dhcp: 1608555112 available DHCP range: 192.168.50.10 -- 192.168.50.50
+dnsmasq-dhcp: 1608555112 client provides name: iPhone
+dnsmasq-dhcp: 1608555112 DHCPDISCOVER(wlxe84e06aed7ca) 62:dc:06:5e:1e:d7 
+dnsmasq-dhcp: 1608555112 tags: wlxe84e06aed7ca
+dnsmasq-dhcp: 1608555112 DHCPOFFER(wlxe84e06aed7ca) 192.168.50.29 62:dc:06:5e:1e:d7 
+dnsmasq-dhcp: 1608555112 requested options: 1:netmask, 121:classless-static-route, 3:router, 
+dnsmasq-dhcp: 1608555112 requested options: 6:dns-server, 15:domain-name, 108:ipv6-only, 
+dnsmasq-dhcp: 1608555112 requested options: 114, 119:domain-search, 162, 252
+dnsmasq-dhcp: 1608555112 next server: 192.168.50.1
+dnsmasq-dhcp: 1608555112 sent size:  1 option: 53 message-type  2
+dnsmasq-dhcp: 1608555112 sent size:  4 option: 54 server-identifier  192.168.50.1
+dnsmasq-dhcp: 1608555112 sent size:  4 option: 51 lease-time  12h
+dnsmasq-dhcp: 1608555112 sent size:  4 option: 58 T1  6h
+dnsmasq-dhcp: 1608555112 sent size:  4 option: 59 T2  10h30m
+dnsmasq-dhcp: 1608555112 sent size:  4 option:  1 netmask  255.255.255.0
+dnsmasq-dhcp: 1608555112 sent size:  4 option: 28 broadcast  192.168.50.255
+dnsmasq-dhcp: 1608555112 sent size:  4 option:  6 dns-server  192.168.50.1
+dnsmasq-dhcp: 1608555112 sent size:  4 option:  3 router  192.168.50.1
+dnsmasq-dhcp: 1608555112 available DHCP range: 192.168.50.10 -- 192.168.50.50
+dnsmasq-dhcp: 1608555112 client provides name: iPhone
+dnsmasq-dhcp: 1608555112 DHCPREQUEST(wlxe84e06aed7ca) 192.168.50.29 62:dc:06:5e:1e:d7 
+dnsmasq-dhcp: 1608555112 tags: wlxe84e06aed7ca
+dnsmasq-dhcp: 1608555112 DHCPACK(wlxe84e06aed7ca) 192.168.50.29 62:dc:06:5e:1e:d7 iPhone
+dnsmasq-dhcp: 1608555112 requested options: 1:netmask, 121:classless-static-route, 3:router, 
+dnsmasq-dhcp: 1608555112 requested options: 6:dns-server, 15:domain-name, 108:ipv6-only, 
+dnsmasq-dhcp: 1608555112 requested options: 114, 119:domain-search, 162, 252
+dnsmasq-dhcp: 1608555112 next server: 192.168.50.1
+dnsmasq-dhcp: 1608555112 sent size:  1 option: 53 message-type  5
+dnsmasq-dhcp: 1608555112 sent size:  4 option: 54 server-identifier  192.168.50.1
+dnsmasq-dhcp: 1608555112 sent size:  4 option: 51 lease-time  12h
+dnsmasq-dhcp: 1608555112 sent size:  4 option: 58 T1  6h
+dnsmasq-dhcp: 1608555112 sent size:  4 option: 59 T2  10h30m
+dnsmasq-dhcp: 1608555112 sent size:  4 option:  1 netmask  255.255.255.0
+dnsmasq-dhcp: 1608555112 sent size:  4 option: 28 broadcast  192.168.50.255
+dnsmasq-dhcp: 1608555112 sent size:  4 option:  6 dns-server  192.168.50.1
+dnsmasq-dhcp: 1608555112 sent size:  4 option:  3 router  192.168.50.1
+dnsmasq: query[HTTPS] gsp85-ssl.ls.apple.com from 192.168.50.29
+dnsmasq: forwarded gsp85-ssl.ls.apple.com to 127.0.0.53
+dnsmasq: query[A] gsp85-ssl.ls.apple.com from 192.168.50.29
+dnsmasq: config gsp85-ssl.ls.apple.com is 192.168.50.1
+dnsmasq: query[SVCB] _dns.resolver.arpa from 192.168.50.29
+dnsmasq: forwarded _dns.resolver.arpa to 127.0.0.53
+dnsmasq: query[A] gateway.icloud.com from 192.168.50.29
+dnsmasq: config gateway.icloud.com is 192.168.50.1
+dnsmasq: query[A] www.google.com from 192.168.50.29
+dnsmasq: config www.google.com is 192.168.50.1
+dnsmasq: query[A] apple.com from 192.168.50.29
+dnsmasq: config apple.com is 192.168.50.1
+dnsmasq: reply _dns.resolver.arpa is NODATA
+dnsmasq: reply gsp85-ssl.ls.apple.com is <CNAME>
+dnsmasq: reply gsp85-ssl.ls2-apple.com.akadns.net is NODATA
+dnsmasq: query[HTTPS] captive.apple.com from 192.168.50.29
+dnsmasq: forwarded captive.apple.com to 127.0.0.53
+dnsmasq: query[A] captive.apple.com from 192.168.50.29
+dnsmasq: config captive.apple.com is 192.168.50.1
+dnsmasq: reply captive.apple.com is <CNAME>
+dnsmasq: reply captive.g.aaplimg.com is NODATA
+dnsmasq: query[HTTPS] 18-courier.push.apple.com from 192.168.50.29
+dnsmasq: forwarded 18-courier.push.apple.com to 127.0.0.53
+dnsmasq: query[A] 18-courier.push.apple.com from 192.168.50.29
+dnsmasq: config 18-courier.push.apple.com is 192.168.50.1
+dnsmasq: reply 18-courier.push.apple.com is <CNAME>
+dnsmasq: reply 18.courier-push-apple.com.akadns.net is <CNAME>
+dnsmasq: reply eu-central-courier-4.push-apple.com.akadns.net is NODATA
+dnsmasq-dhcp: 1608555114 available DHCP range: 192.168.50.10 -- 192.168.50.50
+dnsmasq-dhcp: 1608555114 client provides name: iPhone
+dnsmasq-dhcp: 1608555114 DHCPDISCOVER(wlxe84e06aed7ca) 62:dc:06:5e:1e:d7 
+dnsmasq-dhcp: 1608555114 tags: wlxe84e06aed7ca
+dnsmasq-dhcp: 1608555114 DHCPOFFER(wlxe84e06aed7ca) 192.168.50.29 62:dc:06:5e:1e:d7 
+dnsmasq-dhcp: 1608555114 requested options: 1:netmask, 121:classless-static-route, 3:router, 
+dnsmasq-dhcp: 1608555114 requested options: 6:dns-server, 15:domain-name, 108:ipv6-only, 
+dnsmasq-dhcp: 1608555114 requested options: 114, 119:domain-search, 162, 252
+dnsmasq-dhcp: 1608555114 next server: 192.168.50.1
+dnsmasq-dhcp: 1608555114 sent size:  1 option: 53 message-type  2
+dnsmasq-dhcp: 1608555114 sent size:  4 option: 54 server-identifier  192.168.50.1
+dnsmasq-dhcp: 1608555114 sent size:  4 option: 51 lease-time  12h
+dnsmasq-dhcp: 1608555114 sent size:  4 option: 58 T1  6h
+dnsmasq-dhcp: 1608555114 sent size:  4 option: 59 T2  10h30m
+dnsmasq-dhcp: 1608555114 sent size:  4 option:  1 netmask  255.255.255.0
+dnsmasq-dhcp: 1608555114 sent size:  4 option: 28 broadcast  192.168.50.255
+dnsmasq-dhcp: 1608555114 sent size:  4 option:  6 dns-server  192.168.50.1
+dnsmasq-dhcp: 1608555114 sent size:  4 option:  3 router  192.168.50.1
+dnsmasq-dhcp: 1608555114 available DHCP range: 192.168.50.10 -- 192.168.50.50
+dnsmasq-dhcp: 1608555114 client provides name: iPhone
+dnsmasq-dhcp: 1608555114 DHCPREQUEST(wlxe84e06aed7ca) 192.168.50.29 62:dc:06:5e:1e:d7 
+dnsmasq-dhcp: 1608555114 tags: wlxe84e06aed7ca
+dnsmasq-dhcp: 1608555114 DHCPACK(wlxe84e06aed7ca) 192.168.50.29 62:dc:06:5e:1e:d7 iPhone
+dnsmasq-dhcp: 1608555114 requested options: 1:netmask, 121:classless-static-route, 3:router, 
+dnsmasq-dhcp: 1608555114 requested options: 6:dns-server, 15:domain-name, 108:ipv6-only, 
+dnsmasq-dhcp: 1608555114 requested options: 114, 119:domain-search, 162, 252
+dnsmasq-dhcp: 1608555114 next server: 192.168.50.1
+dnsmasq-dhcp: 1608555114 sent size:  1 option: 53 message-type  5
+dnsmasq-dhcp: 1608555114 sent size:  4 option: 54 server-identifier  192.168.50.1
+dnsmasq-dhcp: 1608555114 sent size:  4 option: 51 lease-time  12h
+dnsmasq-dhcp: 1608555114 sent size:  4 option: 58 T1  6h
+dnsmasq-dhcp: 1608555114 sent size:  4 option: 59 T2  10h30m
+dnsmasq-dhcp: 1608555114 sent size:  4 option:  1 netmask  255.255.255.0
+dnsmasq-dhcp: 1608555114 sent size:  4 option: 28 broadcast  192.168.50.255
+dnsmasq-dhcp: 1608555114 sent size:  4 option:  6 dns-server  192.168.50.1
+dnsmasq-dhcp: 1608555114 sent size:  4 option:  3 router  192.168.50.1
+dnsmasq: query[HTTPS] captive.apple.com from 192.168.50.29
+dnsmasq: forwarded captive.apple.com to 127.0.0.53
+dnsmasq: query[A] captive.apple.com from 192.168.50.29
+dnsmasq: config captive.apple.com is 192.168.50.1
+dnsmasq: query[SVCB] _dns.resolver.arpa from 192.168.50.29
+dnsmasq: forwarded _dns.resolver.arpa to 127.0.0.53
+dnsmasq: query[HTTPS] gsp85-ssl.ls.apple.com from 192.168.50.29
+dnsmasq: forwarded gsp85-ssl.ls.apple.com to 127.0.0.53
+dnsmasq: query[A] gsp85-ssl.ls.apple.com from 192.168.50.29
+dnsmasq: config gsp85-ssl.ls.apple.com is 192.168.50.1
+dnsmasq: query[SVCB] _dns.resolver.arpa from 192.168.50.29
+dnsmasq: reply captive.apple.com is <CNAME>
+dnsmasq: reply captive.g.aaplimg.com is NODATA
+dnsmasq: reply _dns.resolver.arpa is NODATA
+dnsmasq: reply gsp85-ssl.ls.apple.com is <CNAME>
+dnsmasq: reply gsp85-ssl.ls2-apple.com.akadns.net is NODATA
+dnsmasq: query[A] gateway.icloud.com from 192.168.50.29
+dnsmasq: config gateway.icloud.com is 192.168.50.1
+dnsmasq: query[HTTPS] captive.g.aaplimg.com from 192.168.50.29
+dnsmasq: forwarded captive.g.aaplimg.com to 127.0.0.53
+dnsmasq: query[A] captive.g.aaplimg.com from 192.168.50.29
+dnsmasq: config captive.g.aaplimg.com is 192.168.50.1
+dnsmasq: reply captive.g.aaplimg.com is NODATA
+dnsmasq: query[HTTPS] wps.apple.com from 192.168.50.29
+dnsmasq: forwarded wps.apple.com to 127.0.0.53
+dnsmasq: query[A] wps.apple.com from 192.168.50.29
+dnsmasq: config wps.apple.com is 192.168.50.1
+dnsmasq: reply wps.apple.com is <CNAME>
+dnsmasq: reply wps.v.aaplimg.com is <CNAME>
+dnsmasq: reply euc1-wps-prod.apple.com is NODATA
+dnsmasq: query[HTTPS] 22-courier.push.apple.com from 192.168.50.29
+dnsmasq: forwarded 22-courier.push.apple.com to 127.0.0.53
+dnsmasq: query[A] 22-courier.push.apple.com from 192.168.50.29
+dnsmasq: config 22-courier.push.apple.com is 192.168.50.1
+dnsmasq: query[HTTPS] 29-courier.push.apple.com from 192.168.50.29
+dnsmasq: forwarded 29-courier.push.apple.com to 127.0.0.53
+dnsmasq: query[A] 29-courier.push.apple.com from 192.168.50.29
+dnsmasq: config 29-courier.push.apple.com is 192.168.50.1
+dnsmasq: query[HTTPS] 49-courier.push.apple.com from 192.168.50.29
+dnsmasq: forwarded 49-courier.push.apple.com to 127.0.0.53
+dnsmasq: query[A] 49-courier.push.apple.com from 192.168.50.29
+dnsmasq: config 49-courier.push.apple.com is 192.168.50.1
+dnsmasq: query[HTTPS] 25-courier.push.apple.com from 192.168.50.29
+dnsmasq: forwarded 25-courier.push.apple.com to 127.0.0.53
+dnsmasq: query[A] 25-courier.push.apple.com from 192.168.50.29
+dnsmasq: config 25-courier.push.apple.com is 192.168.50.1
+dnsmasq: reply 22-courier.push.apple.com is <CNAME>
+dnsmasq: reply 22.courier-push-apple.com.akadns.net is <CNAME>
+dnsmasq: reply eu-central-courier-4.push-apple.com.akadns.net is NODATA
+dnsmasq: reply 29-courier.push.apple.com is <CNAME>
+dnsmasq: reply 29.courier-push-apple.com.akadns.net is <CNAME>
+dnsmasq: reply eu-central-courier-4.push-apple.com.akadns.net is NODATA
+dnsmasq: reply 49-courier.push.apple.com is <CNAME>
+dnsmasq: reply 49.courier-push-apple.com.akadns.net is <CNAME>
+dnsmasq: reply eu-central-courier-4.push-apple.com.akadns.net is NODATA
+dnsmasq: reply 25-courier.push.apple.com is <CNAME>
+dnsmasq: reply 25.courier-push-apple.com.akadns.net is <CNAME>
+dnsmasq: reply eu-central-courier-4.push-apple.com.akadns.net is NODATA
+dnsmasq: query[HTTPS] 36-courier.push.apple.com from 192.168.50.29
+dnsmasq: forwarded 36-courier.push.apple.com to 127.0.0.53
+dnsmasq: query[A] 36-courier.push.apple.com from 192.168.50.29
+dnsmasq: config 36-courier.push.apple.com is 192.168.50.1
+dnsmasq: query[HTTPS] 38-courier.push.apple.com from 192.168.50.29
+dnsmasq: forwarded 38-courier.push.apple.com to 127.0.0.53
+dnsmasq: query[A] 38-courier.push.apple.com from 192.168.50.29
+dnsmasq: config 38-courier.push.apple.com is 192.168.50.1
+dnsmasq: reply 36-courier.push.apple.com is <CNAME>
+dnsmasq: reply 36.courier-push-apple.com.akadns.net is <CNAME>
+dnsmasq: reply eu-central-courier-4.push-apple.com.akadns.net is NODATA
+dnsmasq: reply 38-courier.push.apple.com is <CNAME>
+dnsmasq: reply 38.courier-push-apple.com.akadns.net is <CNAME>
+dnsmasq: reply eu-central-courier-4.push-apple.com.akadns.net is NODATA
+dnsmasq: query[HTTPS] 16-courier.push.apple.com from 192.168.50.29
+dnsmasq: forwarded 16-courier.push.apple.com to 127.0.0.53
+dnsmasq: query[A] 16-courier.push.apple.com from 192.168.50.29
+dnsmasq: config 16-courier.push.apple.com is 192.168.50.1
+dnsmasq: query[HTTPS] 19-courier.push.apple.com from 192.168.50.29
+dnsmasq: forwarded 19-courier.push.apple.com to 127.0.0.53
+dnsmasq: query[A] 19-courier.push.apple.com from 192.168.50.29
+dnsmasq: config 19-courier.push.apple.com is 192.168.50.1
+dnsmasq: reply 16-courier.push.apple.com is <CNAME>
+dnsmasq: reply 16.courier-push-apple.com.akadns.net is <CNAME>
+dnsmasq: reply eu-central-courier-4.push-apple.com.akadns.net is NODATA
+dnsmasq: reply 19-courier.push.apple.com is <CNAME>
+dnsmasq: reply 19.courier-push-apple.com.akadns.net is <CNAME>
+dnsmasq: reply eu-central-courier-4.push-apple.com.akadns.net is NODATA
+dnsmasq: error binding DHCP socket to device wlxe84e06aed7ca

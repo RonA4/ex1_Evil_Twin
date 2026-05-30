@@ -1,0 +1,7 @@
+[2026-05-30 07:25:45] [START] Captive portal started on http://0.0.0.0:80
+[2026-05-30 07:25:57] 192.168.50.29 - "GET /hotspot-detect.html HTTP/1.1" 200 -
+[2026-05-30 07:25:58] 192.168.50.29 - "GET /hotspot-detect.html HTTP/1.1" 200 -
+[2026-05-30 07:25:58] 192.168.50.29 - "GET /hotspot-detect.html HTTP/1.1" 200 -
+[2026-05-30 07:26:10] [CREDENTIALS CAPTURED] client=192.168.50.29 username=iPhone_Lab password=12345678
+[2026-05-30 07:26:10] 192.168.50.29 - "POST /login HTTP/1.1" 200 -
+[2026-05-30 07:26:10] 192.168.50.29 - "GET /hotspot-detect.html HTTP/1.1" 200 -
