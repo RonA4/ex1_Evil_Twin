@@ -12,8 +12,8 @@
 ## Group Members and Contributions
 
 - **Ron Amsalem** 
-- **Fadi**
-- We worked together.
+- **Fadi Nujedat**
+-The project was developed collaboratively by both group members. We worked together on the attack flow implementation, Evil Twin setup, captive portal, targeted disconnection, defense mechanism, testing, screenshots, and documentation.
 
 ---
 
